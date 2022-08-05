@@ -14,6 +14,5 @@ public class Multiple {
         System.out.println("7*9=63");
         System.out.println("8*9=72");
         System.out.println("9*9=81");
-        System.out.println("9*10=90");:
     }
 }
